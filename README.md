@@ -1,3 +1,5 @@
+I prepared a PDF file so I strongly suggest you to check PDF file instead of the MD file.
+
 For the report: https://github.com/berkemremert/Exercise7_IC00AI83/blob/f7cc2da10bfa163e2164ccd6e4fe884aa498ed7a/Exercise7_IC00AI83.pdf
 
 Berk Emre Mert
